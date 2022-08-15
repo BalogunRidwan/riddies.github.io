@@ -1,0 +1,330 @@
+body{
+    background-image: url(../images/gatewaybackground.jpg);
+    background-size: cover;
+    background-attachment: fixed ;
+
+}
+.MY {
+    color: white;
+    text-decoration: none;
+    padding-right: 70px;
+    padding-top: 120px;
+    font-style: normal;
+    margin-top: -150px;
+    font-size: 15px;
+    
+}
+.MY a {
+    padding: 14px 16px;
+}
+.YOURS{
+    text-decoration: none;
+    color: white;
+    border: 2px solid #ff974f;
+    padding: 12px 22px;
+
+}
+.call{
+    float: left;
+    margin-left: 930px;
+    margin-top: -20px;
+
+}
+.address{
+    float: left;
+    margin-left:30px ;
+}
+h1{
+    color: #ff974f;
+    margin-top:-80px;
+    text-align: center;
+}
+.riddies{
+    background-color: #ff974f;
+    color: white;
+    text-align: center;
+    border-radius: 2px;
+    margin-left: 500px;
+    font-size:20px;
+    text-decoration: none;
+    border:0 none;
+    padding: 16px 30px;
+    position: relative;
+    top: 50px;
+
+}
+.riddies:hover{
+    background-color: #d77129;
+
+}
+.GO{
+    display: flex;
+    width: 93%;
+    background-color: white;
+    height: 320px;
+    position: relative;
+    top: 250px;
+    margin-left: 30px;
+}
+.GO img{
+    height: 280px;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+.JOS{
+    background-color: white;
+    height:800px ;
+    display: flex;
+    
+}
+.david{
+    background-color: #ff974f;
+    border: 1px solid #ff974f;
+    width: 80px;
+    height: 1px;
+}
+.fred{
+    position: relative;
+    top: 50px;
+    padding-left: 40px;
+}
+.fire{
+    color: grey;
+    position: relative;
+    top: 30px;
+}
+.rema{
+    font-size: 30px;
+}
+.joe{
+    font-size: 20px;
+}
+.wiz{
+    position: relative;
+    top: 200px;
+    padding: 14px 16px;
+}
+
+.timoti{
+    background-image: url(../images/gateway7.jpg);
+    height: 800px;
+}
+.diana{
+    background-color: white;
+    height: 600px;
+    width: 85%;
+    margin-left: 85px;
+    position: relative;
+    top: 100px;
+}
+.free{
+    margin-left: 50px;
+    position: relative;
+    top: 10px;
+}
+.free .d1{
+    color: black;
+    margin-top: 20px;
+    font-size: 35px;
+}
+.d0{
+    position: relative;
+    top: 20px ;
+}
+.d2{
+    background-color: #ff974f;
+    width: 80px;
+    height: 1px;
+    border: 1px solid #ff974f;
+}
+.d3{
+    margin-top: 50px;
+    color: gray;
+    font-weight: lighter;
+    font-size: 20px;
+}
+.d4{
+    color: rgb(19, 18, 18);
+}
+.d5{
+    margin-left: 23px;
+    margin-top: -30px;
+}
+.d7{
+    margin-left: 3px;
+}
+.d8{
+    margin-left: 3px;
+    color: grey;
+}
+.d9{
+    color: rgb(19, 18, 18);
+}
+.d10{
+    margin-top: 30px;
+}
+.d6{
+    color: grey;
+}
+.gseries .g100{
+    justify-content: center left 2px;
+    margin-top: -470px;
+    margin-left: 780px;
+    border: 1px solid rgba(82, 80, 79, 0.541);
+    border-radius: 4px;
+    width: 25px;
+    height: 25px;
+    padding-top: 12px 16px;
+    position: absolute;
+    color: black;
+    padding-right: 0px 4px; 
+}
+.gseries .g200{
+    justify-content: center left 2px;
+    margin-top: -470px;
+    margin-left: 810px;
+    border: 1px solid rgba(82, 80, 79, 0.541);
+    border-radius: 4px;
+    width: 25px;
+    height: 25px;
+    padding-top: 12px 16px;
+    position: absolute;
+    color: black;
+    padding-right: 0px 4px; 
+}
+.gseries .g300{
+    justify-content: center left 2px;
+    margin-top: -470px;
+    margin-left: 840px;
+    border: 1px solid rgba(82, 80, 79, 0.541);
+    border-radius: 4px;
+    width: 25px;
+    height: 25px;
+    padding-top: 12px 16px;
+    position: absolute;
+    color: black;
+    padding-right: 0px 4px; 
+}
+.gseries .g400{
+    justify-content: center left 2px;
+    margin-top: -470px;
+    margin-left: 870px;
+    border: 1px solid rgba(82, 80, 79, 0.541);
+    border-radius: 4px;
+    width: 25px;
+    height: 25px;
+    padding-top: 12px 16px;
+    position: absolute;
+    color: black;
+    padding-right: 0px 4px; 
+}
+.gseries .g500{
+    justify-content: center left 2px;
+    margin-top: -470px;
+    margin-left: 900px;
+    border: 1px solid rgba(82, 80, 79, 0.541);
+    border-radius: 4px;
+    width: 25px;
+    height: 25px;
+    padding-top: 12px 16px;
+    position: absolute;
+    color: black;
+    padding-right: 0px 4px; 
+}
+.g100:hover{
+    background-color: white;
+    color: #ff974f;
+}
+.g200:hover{
+    background-color: white;
+    color: #ff974f;
+}
+.g300:hover{
+    background-color: white;
+    color: #ff974f;
+}
+.g400:hover{
+    background-color: white;
+    color: #ff974f;
+}
+.g500:hover{
+    background-color: white;
+    color: #ff974f;
+}
+.g600{
+    color: grey;
+    border: 1px solid grey;
+    margin-top: -400px;
+    margin-left: 640px;
+    position: absolute;
+    width: 370px;
+    height: 40px;
+    border-radius:3px;
+}
+.g700{
+    color: grey;
+    border: 1px solid grey;
+    margin-top: -400px;
+    margin-left: 640px;
+    position: absolute;
+    width: 370px;
+    height: 40px;
+    border-radius:3px;
+}
+.g700{
+    color: grey;
+    border: 1px solid grey;
+    margin-top: -380px;
+    margin-left: 640px;
+    position: absolute;
+    width: 370px;
+    height: 40px;
+    border-radius:3px;
+}
+.g800{
+    color: grey;
+    border: 1px solid gray;
+    margin-top: -360px;
+    margin-left: 640px;
+    position: absolute;
+    width: 370px;
+    height: 150px;
+    border-radius:3px;
+}
+.haven{
+    text-decoration: none;
+    border: 2px solid #ff974f;
+    padding: 15px 18px;
+    font-size: 14px;
+    color: white;
+    width: 100px;
+    padding-left: 30px;
+    margin-left: 865px;
+    border-radius: 2px;
+    position: relative;
+    top: -170px;
+    background-color: #ff974f;
+}
+.haven:hover{
+    background-color: #d77129;
+}
+.gucci{
+    background-color: white;
+    height: 80px;
+    width: 100%;
+    margin-top: 220px;
+
+}
+.virgil{
+    margin-left: 80px;
+    margin-top: -21px;
+    position: relative;
+    top:25px ;
+    color: grey;
+}
+.ACTIVE{
+    background-color: #ff974f;
+    text-decoration: none;
+    color: white;
+}
